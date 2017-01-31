@@ -1,7 +1,7 @@
 # tasks
 List of PHP program samples
 
-## Ссылки на тестовые программы на GitHubb
+## Ссылки на тестовые программы на GitHub
 
  * [PHP RESTful API позволяет с помощью HTTP запросов манипулировать данными таблиц БД MySql](https://github.com/sergechurkin/restapi)
  * [Тестовое приложение "Гостевая книга"](https://github.com/sergechurkin/guestbook)
