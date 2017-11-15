@@ -3,6 +3,8 @@ List of js and PHP program samples
 
 ## Ссылки на тестовые программы на GitHub
 
+ * [jsHorse](https://github.com/sergechurkin/jsHorse)
+3D анимация на js на базе библиотеки three.js и MD2 моделей.
  * [jqxtree](https://github.com/sergechurkin/jqxtree)
 Пример использования js виджетов фреймворка jQWidgets. Обмен с сервером реализован по технологии AJAX. Серверная часть написана на PHP по схеме MVC.
  * [jsBalls](https://github.com/sergechurkin/jsBalls)
