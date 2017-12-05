@@ -3,6 +3,8 @@ List of js and PHP program samples
 
 ## Ссылки на тестовые программы на GitHub
 
+ * [log](https://github.com/sergechurkin/log)
+Хранение и формирование журнала посещений страниц веб-сайта на основе запросов AJAX.
  * [jsHorse](https://github.com/sergechurkin/jsHorse)
 3D анимация на js на базе библиотеки three.js и MD2 моделей.
  * [jqxtree](https://github.com/sergechurkin/jqxtree)
