@@ -3,8 +3,10 @@ List of js and PHP program samples
 
 ## Ссылки на тестовые программы на GitHub
 
+ * [log_pl_sql](https://github.com/sergechurkin/log_pl_sql)
+Просмотр журнала посещений страниц WEB-сайта на основе запросов AJAX (Oracle PL / SQL и js).
  * [log](https://github.com/sergechurkin/log)
-Хранение и формирование журнала посещений страниц веб-сайта на основе запросов AJAX.
+Хранение и формирование журнала посещений страниц веб-сайта на основе запросов AJAX (PHP и js).
  * [jsHorse](https://github.com/sergechurkin/jsHorse)
 3D анимация на js на базе библиотеки three.js и MD2 моделей.
  * [jqxtree](https://github.com/sergechurkin/jqxtree)
