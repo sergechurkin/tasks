@@ -3,6 +3,8 @@ List of js and PHP program samples
 
 ## Ссылки на тестовые программы на GitHub
 
+ * [Oracle_json_XML](https://github.com/sergechurkin/Oracle_json_XML)
+Example of Oracle json and XML Web Services.
  * [log_pl_sql](https://github.com/sergechurkin/log_pl_sql)
 Просмотр журнала посещений страниц WEB-сайта на основе запросов AJAX (Oracle PL / SQL и js).
  * [log](https://github.com/sergechurkin/log)
